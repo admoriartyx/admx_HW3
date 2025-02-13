@@ -84,3 +84,29 @@ for i in range(11):
 # the code ran for the way I initially had the folders organized.
 
 # Part c
+
+# After consulting Dawson on the problem I will answer part c with an iterative analysis on each of the 
+# data files given for Question 2. I will reference the heatmaps to come to some sort of
+# conclusion about the physical phenomenon that occurred to produce such trends in the data.
+
+# First I have to choose a subsection of the data to study. Every heatmap displays what look like 3
+# vertices of sort, all spaced laterally between the values of 175 and 75 of dimension 2. I will pick
+# these specific sector of the data to analyze across energy levels.
+
+# Starting off with looking at the 0-3 energy levels, we notice a higher concentration, indicating
+# a higher density of electrons around where the vertices appeear to be. The points are more tightly 
+# packed and there is less variance from the highest point of concentration. As the energy levels increase
+# into the 4-7 ranges, we see more scattering away from where the vertices lie. The average distance
+# that the data sprawls away from the psuedo center of the data increases incrementally with each 
+# increasing energy level. By the time we get to levels 9 and 10, the patterns look more so like 
+# ripples in a pond or hexagonal lattices. This is a stark contrast to where we started at levels 0 and 1
+# where the data was condensed into essentially points, as the heatmaps were far less colorful overall.
+
+# The most simple explanation for this is that at higher energy levels, there exist more states of 
+# quantum decoherence, contributing to more variance in the locations of the electrons and less confined
+# patterns overall. At lower energy states, the data is more pronounced and confined because the electrons
+# assume the lower energy states and are more stable. 
+
+# Even in referencing the surface plots, there is a lot more decoherence and height variance across the
+# studied band as the energy levels increase. This is my best interpretation of the data.
+
